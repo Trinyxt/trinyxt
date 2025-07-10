@@ -19,6 +19,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Trinyxt/trinyxt/refs/heads/main/workflows/snake.yml" alt="Snake animation" />
+<img src="https://github.com/Trinyxt/trinyxt/blob/main/workflows/snake.yml" alt="Snake animation" />
 
 ###
